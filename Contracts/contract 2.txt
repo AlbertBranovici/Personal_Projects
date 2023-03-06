@@ -1,0 +1,27 @@
+Contract number: 2
+Date of contract: 2023-01-03
+
+Client's details:
+	First name: Maria
+	Last name: Enache
+	CNP: 5020205456488
+	Number of accidents in the last 5 years: 2
+
+Car details:
+	Category: B
+	Make: Audi
+	Model: Q5
+	Year of production: 2018
+	Fuel: Diesel
+	Horsepower: 150
+	Pollution number: Euro 5
+	Age: 5 years
+	Risk index: 80000.0
+	Pollution index: Euro 5
+
+Other details:
+	Modifications: mp3 player, 
+	Hazard types: Accident, Earthquake, 
+	Payment interval: Monthly
+	Insurance price: 10280.0 RON
+	Payment rate: 856.6666666666666 RON

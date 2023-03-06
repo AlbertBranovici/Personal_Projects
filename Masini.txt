@@ -1,0 +1,47 @@
+Categorie/Marca/Model/AnFabricatie/Combustibil/PutereMotor(CP)/Norma de poluare/Pret initial(euro)
+B/BMW/740il/2000/Petrol/456/Euro 1/37500
+B/BMW/750il/2013/Petrol/590/Euro 1/60000
+B/BMW/Seria 5/2015/Diesel/184/Euro 6/17599
+B/BMW/X5/2015/Diesel/258/Euro 6/34510
+B/BMW/Seria 3/2017/Petrol/184/Euro 6/22989
+B/BMW/740i/2018/Petrol/342/Euro 1/27000
+B/Volkswagen/Golf/2005/Petrol/80/Euro 5/24000
+B/Volkswagen/Golf/2008/Diesel/380/Euro 5/30500
+B/Volkswagen/Golf/2014/Diesel/190/Euro 4/15000
+B/Volkswagen/Passat/2018/Diesel/290/Euro 4/25000
+B/Volkswagen/Passat/2019/Diesel/240/Euro 5/45000
+B/Volkswagen/Passat/2021/Diesel/300/Euro 6/80500
+B/Mercedes-Benz/GLC/2015/Diesel/210/Euro 5/55900
+B/Mercedes-Benz/GLK/2019/Petrol/200/Euro 3/60300
+B/Mercedes-Benz/GLC/2021/Diesel/400/Euro 5/90000
+B/Mercedes-Benz/GLC/2022/Petrol/300/Euro 4/80900
+B/Mercedes-Benz/GLK/2022/Diesel/300/Euro 6/70500
+B/Aston-Martin/Vantage/2007/Petrol/700/Euro 5/250000
+B/Aston-Martin/DBX/2019/Petrol/450/Euro 5/90999
+B/Aston-Martin/DBX/2022/Petrol/500/Euro 5/100600
+B/Aston-Martin/DBX/2023/Diesel/800/Euro 5/200500
+B/Cadillac/Escalade/2021/Petrol/300/Euro 5/100000
+B/Cadillac/CTS/2021/Petrol/400/Euro 5/122980
+B/Cadillac/CTS/2022/Petrol/600/Euro 5/199980
+B/Cadillac/Escalade/2022/Petrol/600/Euro 4/140000
+B/Cadillac/Escalade/2023/Petrol/500/Euro 4/150600
+B/Chevrolet/Captiva/2009/Diesel/100/Euro 5/6000
+B/Chevrolet/Captiva/2010/Diesel/120/Euro 4/8000
+B/Chevrolet/Captiva/2011/Petrol/90/Euro 4/5000
+B/Chevrolet/Spark/2012/Petrol/70/Euro 4/8000
+B/Chevrolet/Spark/2014/Petrol/90/Euro 5/10000
+B/Audi/Q5/2016/Diesel/260/Euro 4/49800
+B/Audi/Q5/2017/Petrol/300/Euro 4/50900
+B/Audi/Q5/2018/Diesel/150/Euro 5/80000
+A/Yamaha/YZ/2008/Petrol/80/Euro 4/5000
+A/Yamaha/TTR/2018/Petrol/100/Euro 4/2800
+A/Yamaha/TTR/2022/Petrol/130/Euro 5/3000
+A/Yamaha/YZ/2023/Petrol/120/Euro 5/8000
+A/Ducati/Diavel/2008/Petrol/100/Euro 4/14000
+A/Ducati/Multistrada/2013/Petrol/200/Euro 4/13000
+A/Ducati/Multistrada/2014/Petrol/90/Euro 5/9000
+A/Ducati/Diavel/2021/Petrol/110/Euro 4/20000
+A/Ducati/Diavel/2022/Petrol/120/Euro 4/19000
+C/Trasura/Caleasca nunta/2019/-/0/-/40000
+C/Trasura/Trasura rustica/2018/-/0/-/3000
+C/Trasura/Caleasca curse/2022/-/0/-/50000

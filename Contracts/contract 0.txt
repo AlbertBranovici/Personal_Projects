@@ -1,0 +1,27 @@
+Insurance contract
+Date of contract: 2023-03-06
+
+Client's details:
+	First name: Albert
+	Last name: Branovici
+	CNP: 5020430123123
+	Number of accidents in the last 5 years: 1
+
+Car details:
+	Category: B
+	Make: Cadillac
+	Model: Escalade
+	Year of production: 2023
+	Fuel: Petrol
+	Horsepower: 500
+	Pollution number: Euro 4
+	Age: 0 years
+	Risk index: 150600.0
+	Pollution index: Euro 4
+
+Other details:
+	Modifications: Radio, 
+	Hazard types: Accident, Earthquake, 
+	Payment interval: Semestrial
+	Insurance price: 16321.0 RON
+	Payment rate: 8160.5 RON

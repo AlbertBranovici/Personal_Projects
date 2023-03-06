@@ -1,0 +1,27 @@
+Contract number: 4
+Date of contract: 2023-03-06
+
+Client's details:
+	First name: Tom
+	Last name: Davies
+	CNP: 5020612784956
+	Number of accidents in the last 5 years: 1
+
+Car details:
+	Category: B
+	Make: Aston-Martin
+	Model: DBX
+	Year of production: 2019
+	Fuel: Petrol
+	Horsepower: 450
+	Pollution number: Euro 5
+	Age: 4 years
+	Risk index: 90999.0
+	Pollution index: Euro 5
+
+Other details:
+	Modifications: Radio, 
+	Hazard types: Accident, Fire, 
+	Payment interval: Monthly
+	Insurance price: 11379.9 RON
+	Payment rate: 948.3249999999999 RON

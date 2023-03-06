@@ -1,0 +1,27 @@
+Contract number: 3
+Date of contract: 2023-03-03
+
+Client's details:
+	First name: Michael
+	Last name: Smith
+	CNP: 5020110122322
+	Number of accidents in the last 5 years: 0
+
+Car details:
+	Category: A
+	Make: Yamaha
+	Model: TTR
+	Year of production: 2018
+	Fuel: Petrol
+	Horsepower: 100
+	Pollution number: Euro 4
+	Age: 5 years
+	Risk index: 2800.0
+	Pollution index: Euro 4
+
+Other details:
+	Modifications: Radio, 
+	Hazard types: Earthquake, 
+	Payment interval: Monthly
+	Insurance price: 2000.0 RON
+	Payment rate: 166.66666666666666 RON

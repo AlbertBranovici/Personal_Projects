@@ -1,0 +1,8 @@
+Nr,First name,Last name,CNP,PaymentInterval,PaymentDate,CancellingDate
+0,Albert,Branovici,5020430123123,Semestrial,2023-09-06,2023-09-21
+1,andrei,John,5020412789745,Semestrial,2024-02-06,2024-03-21
+2,Maria,Enache,5020205456488,Monthly,2023-02-03,2023-04-21
+3,Michael,Smith,5020110122322,Monthly,2023-02-03,2023-04-21
+4,Tom,Davies,5020612784956,Monthly,2023-04-02,2023-04-21
+5,Jones,Brown,5020422156188,Monthly,2023-04-03,2023-04-21
+6,Silviu,Florescu,5020311232655,Monthly,2023-04-06,2023-04-21

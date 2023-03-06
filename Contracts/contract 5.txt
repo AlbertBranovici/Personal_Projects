@@ -1,0 +1,27 @@
+Contract number: 5
+Date of contract: 2023-03-06
+
+Client's details:
+	First name: Jones
+	Last name: Brown
+	CNP: 5020422156188
+	Number of accidents in the last 5 years: 1
+
+Car details:
+	Category: A
+	Make: Ducati
+	Model: Diavel
+	Year of production: 2008
+	Fuel: Petrol
+	Horsepower: 100
+	Pollution number: Euro 4
+	Age: 15 years
+	Risk index: 14000.0
+	Pollution index: Euro 4
+
+Other details:
+	Modifications: Radio, 
+	Hazard types: Accident, 
+	Payment interval: Monthly
+	Insurance price: 3520.0 RON
+	Payment rate: 293.3333333333333 RON
