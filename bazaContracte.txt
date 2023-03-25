@@ -1,0 +1,8 @@
+Nr,Nume,Prenume,CNP,IntervalPlata,DataPlata,DataAnulare
+1,Branovici,Albert,5020430134158,Lunar,2023-02-03,2023-02-18
+2,Andronache,Bianca,6020315134132,Lunar,2023-03-04,2023-03-19
+3,Margarint,Dragos,1981024123542,Semestrial,2023-08-04,2023-08-19
+4,Grigore,Alexandru,5020425123321,Anual,2023-02-01,2023-02-01
+5,Anghel,Alin,1980131123432,Lunar,2023-03-04,2023-03-19
+6,Ionita,Radu,1980517131231,Semestrial,2023-01-07,2023-01-22
+7,Bazaru,Ramona,2980203134153,Anual,2024-02-07,2024-02-22

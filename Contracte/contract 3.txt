@@ -1,0 +1,26 @@
+Contract nr.3
+Data incheierii contractului: 2023-02-04
+
+Datele Clientului:
+	Nume: Margarint
+	Prenume: Dragos
+	CNP: 1981024123542
+	Numar accidente in ultimii 5 ani: 0
+
+Specificatii Masina:
+	Categorie: B
+	Marca: Volkswagen
+	Model: Golf
+	An Fabricatie: 2014
+	Combustibil: Diesel
+	Putere motor: 190
+	Norma Poluare: Euro 4
+	Varsta: 9 ani
+	Indice de risc: 4.0
+	Indice poluare: 6.4
+
+Alte Specificatii:
+	Tipuri de risc: Accident, 
+	Interval Plata: Semestrial
+	Suma asigurata: 1463.0 lei
+	Rata: 731.5 lei

@@ -1,0 +1,27 @@
+Contract nr.1
+Data incheierii contractului: 2023-01-03
+
+Datele Clientului:
+	Nume: Branovici
+	Prenume: Albert
+	CNP: 5020430134158
+	Numar accidente in ultimii 5 ani: 2
+
+Specificatii Masina:
+	Categorie: A
+	Marca: Ducati
+	Model: Diavel
+	An Fabricatie: 2021
+	Combustibil: Benzina
+	Putere motor: 110
+	Norma Poluare: Euro 4
+	Varsta: 2 ani
+	Indice de risc: 5.0
+	Indice poluare: 6.4
+
+Alte Specificatii:
+	Modificari: Aer Conditionat, 
+	Tipuri de risc: Accident, Cutremur, 
+	Interval Plata: Lunar
+	Suma asigurata: 1540.0 lei
+	Rata: 128.33333333333334 lei

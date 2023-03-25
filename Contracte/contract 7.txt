@@ -1,0 +1,22 @@
+Contract nr.7
+Data incheierii contractului: 2023-02-07
+
+Datele Clientului:
+	Nume: Bazaru
+	Prenume: Ramona
+	CNP: 2980203134153
+	Numar accidente in ultimii 5 ani: 0
+
+Specificatii Masina:
+	Categorie: C
+	Marca: Trasura
+	Model: Caleasca curse
+	An Fabricatie: 2022
+	Varsta: 1 ani
+	Indice de risc: 6.0
+
+Alte Specificatii:
+	Tipuri de risc: Accident, 
+	Interval Plata: Anual
+	Suma asigurata: 4680.0 lei
+	Rata: 4680.0 lei

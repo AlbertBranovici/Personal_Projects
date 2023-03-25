@@ -1,0 +1,27 @@
+Contract nr.5
+Data incheierii contractului: 2023-02-04
+
+Datele Clientului:
+	Nume: Anghel
+	Prenume: Alin
+	CNP: 1980131123432
+	Numar accidente in ultimii 5 ani: 0
+
+Specificatii Masina:
+	Categorie: B
+	Marca: Volkswagen
+	Model: Golf
+	An Fabricatie: 2008
+	Combustibil: Diesel
+	Putere motor: 380
+	Norma Poluare: Euro 5
+	Varsta: 15 ani
+	Indice de risc: 4.0
+	Indice poluare: 8.0
+
+Alte Specificatii:
+	Modificari: mp3 player, 
+	Tipuri de risc: Accident, 
+	Interval Plata: Lunar
+	Suma asigurata: 2100.0 lei
+	Rata: 175.0 lei

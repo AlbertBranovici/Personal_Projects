@@ -1,0 +1,27 @@
+Contract nr.8
+Data incheierii contractului: 2023-02-08
+
+Datele Clientului:
+	Nume: Ionescu
+	Prenume: Ion
+	CNP: 1981130123123
+	Numar accidente in ultimii 5 ani: 0
+
+Specificatii Masina:
+	Categorie: B
+	Marca: Aston-Martin
+	Model: DBX
+	An Fabricatie: 2019
+	Combustibil: Benzina
+	Putere motor: 450
+	Norma Poluare: Euro 5
+	Varsta: 4 ani
+	Indice de risc: 4.0
+	Indice poluare: 8.0
+
+Alte Specificatii:
+	Modificari: Radio, Aer Conditionat, 
+	Tipuri de risc: Accident, 
+	Interval Plata: Semestrial
+	Suma asigurata: 10791.904999999999 lei
+	Rata: 5395.952499999999 lei

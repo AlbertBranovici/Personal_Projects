@@ -1,0 +1,27 @@
+Contract nr.2
+Data incheierii contractului: 2023-02-04
+
+Datele Clientului:
+	Nume: Andronache
+	Prenume: Bianca
+	CNP: 6020315134132
+	Numar accidente in ultimii 5 ani: 3
+
+Specificatii Masina:
+	Categorie: A
+	Marca: Yamaha
+	Model: YZ
+	An Fabricatie: 2008
+	Combustibil: Benzina
+	Putere motor: 80
+	Norma Poluare: Euro 4
+	Varsta: 15 ani
+	Indice de risc: 5.0
+	Indice poluare: 6.4
+
+Alte Specificatii:
+	Modificari: mp3 player, 
+	Tipuri de risc: Accident, Incendiu, 
+	Interval Plata: Lunar
+	Suma asigurata: 1640.0 lei
+	Rata: 136.66666666666666 lei
